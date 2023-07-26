@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Huchiz
+- 👋 Hi, I’m Gordon
 - 👀 I’m interested in Modeling
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Data Science projects
